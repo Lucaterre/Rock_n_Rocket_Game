@@ -1,13 +1,5 @@
 ##################################
 # Rock 'n' Rocket
-#
-# Spatial Shoot'em up alike 1980's game
-#
-# -- ABSTRACT --
-# A painter draws an abstract sky, when suddenly spots of paint,
-# in the shape of rocks, come strewn over his work in progress.
-# The painter decides to draw a spaceship to clean everything ...
-#
 # @ Luca Terre - 2020
 ##################################
 import random
