@@ -10,7 +10,7 @@
 -----------------------
 
 ###  -- ABSTRACT --
-*A abstract painter draws space, when suddenly spots of paint,
+*An abstract painter draws space, when suddenly spots of paint,
 in the shape of rocks, come strewn over his work in progress.
 The painter decides to draw a spaceship to clean everything ...*
 
