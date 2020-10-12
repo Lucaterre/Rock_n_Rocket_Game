@@ -28,6 +28,6 @@ The painter decides to draw a spaceship to clean everything ...*
 
 ###  -- TRACE THE BUGS, PARTICIPATE AND SUGGEST --
 
-This is my first "functional" game in progress. All interested parties are invited to provide implementation and bug reports and other comments with Github issue tracker. :octocat:
+This is my first "functional" game in progress (yet it is far from being beautiful and still deserves improvement). All interested parties are invited to provide implementation and bug reports and other comments with Github issue tracker. :octocat:
 
 Enjoy :rocket:
