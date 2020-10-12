@@ -14,7 +14,7 @@
 in the shape of rocks, come strewn over his work in progress.
 The painter draws a spaceship to clean everything ...*
 
-###  -- PLAY GAME --
+###  -- PLAY & TEST GAME --
 
 1. Clone this repository in local and enter in `rock_n_rocket` directory;
 2. Create a virtual environment in Python 3.x with `requirements.txt` file;
