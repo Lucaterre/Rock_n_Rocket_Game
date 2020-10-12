@@ -1,5 +1,12 @@
 # :video_game: Rock_n_Rocket_Game
 ## Spatial Shoot'em up alike 1980's games
+
+-----------------------
+
+<p align="center">
+  <img src='rnr_rm.png'>
+</p>
+
 -----------------------
 
 ###  -- ABSTRACT --
